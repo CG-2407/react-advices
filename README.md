@@ -2,6 +2,7 @@
 
 Simple react app that shows a random advice each time you press on the button. 
 Expected to put more features in the future like comments and likes.
+Learning purpose ONLY
 
 ![My Image](src/images/page-image.png)
 
